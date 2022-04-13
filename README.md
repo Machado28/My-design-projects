@@ -1,14 +1,14 @@
 # My-design-projects
-##My social network
+## My social network
 ### Login
 ![Drawing3](https://user-images.githubusercontent.com/75183854/163129022-e60e06a0-8fb2-441d-880e-2701fba69858.png)
-## Chat
+### Chat
 ![Drawing4](https://user-images.githubusercontent.com/75183854/163129169-368efc14-416b-4871-983a-721d92260a00.png)
 
-## Message list
+### Message list
 ![Drawing3](https://user-images.githubusercontent.com/75183854/163129320-4444a317-db51-4cb0-9d23-7800ec9d6f13.png)
 
-## Notifications
+### Notifications
 ![not](https://user-images.githubusercontent.com/75183854/163129416-a683311f-9cdf-41ce-b2f4-9487b5e8ebff.png)
 
 ### Scrum Section
