@@ -1,5 +1,17 @@
 # My-design-projects
-## Scrum Section
+##My social network
+### Login
+![Drawing3](https://user-images.githubusercontent.com/75183854/163129022-e60e06a0-8fb2-441d-880e-2701fba69858.png)
+## Chat
+![Drawing4](https://user-images.githubusercontent.com/75183854/163129169-368efc14-416b-4871-983a-721d92260a00.png)
+
+## Message list
+![Drawing3](https://user-images.githubusercontent.com/75183854/163129320-4444a317-db51-4cb0-9d23-7800ec9d6f13.png)
+
+## Notifications
+![not](https://user-images.githubusercontent.com/75183854/163129416-a683311f-9cdf-41ce-b2f4-9487b5e8ebff.png)
+
+### Scrum Section
 
 
 ![papéis do scrum](https://user-images.githubusercontent.com/75183854/159518033-770a8033-1471-4ee5-bff5-6ff9472e4c7c.jpg)
@@ -12,3 +24,4 @@
 estou procurando melhorar até está agradável.
 ![Uploading A mulher Virtuosa2.png…]()
 ![Uploading A mulher Virtuosa.png…]()
+
